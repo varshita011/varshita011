@@ -1,6 +1,6 @@
 Hi there,
 
-I'm Varshitha Puchakayal, Senior Software Developer with over 4 years of dedicated expertise in Java J2EE technologies. My career journey has been defined by a diverse range of experiences, spanning UI development, middleware solutions, cloud computing, and database management.
+I'm Varshitha Puchakayala, Senior Software Developer with over 4 years of dedicated expertise in Java J2EE technologies. My career journey has been defined by a diverse range of experiences, spanning UI development, middleware solutions, cloud computing, and database management.
 
 In the realm of User Interface development, I've honed my skills in Angular (6 and 10), TypeScript, ReactJS, Bootstrap, JavaScript, Ajax, and jQuery. Crafting dynamic and user-friendly interfaces has always been a passion of mine.
 
